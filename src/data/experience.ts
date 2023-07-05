@@ -4,7 +4,7 @@ import { IconType } from '@components/Icon';
 
 export const experience: Event[] = [
   {
-    jobTitle: 'Software Engineer',
+    jobTitle: 'Robotics Software Engineer',
     location: ' Johnson & Johnson',
     blurb: 'Johnson & Johnson is the world’s largest and most diversified healthcare products company, Specialising in MedTech, FMCG, Healtcare & Pharma',
     points: ['This is an ongoing internship, check back soon!'],
@@ -14,7 +14,7 @@ export const experience: Event[] = [
     techStackIcons: [{ iconType: IconType.cpp }, { iconType: IconType.Python }],
   },
   {
-    jobTitle: 'Robotics Engineer',
+    jobTitle: 'Robotics Software Engineer',
     location: ' Johnson & Johnson',
     blurb: 'Johnson & Johnson is the world’s largest and most diversified healthcare products company, Specialising in MedTech, FMCG, Healtcare & Pharma',
     points: [
