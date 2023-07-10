@@ -24,7 +24,7 @@ export const experience: Event[] = [
       'Led testing and validation efforts, conducting rigorous experiments and fine-tuning algorithms to ensure reliable and safe robotic performance, while continuously improving system efficiency and accuracy.',
       'Contributed to the advancement of the field by staying updated with the latest research and industry trends, attending conferences, and actively participating in knowledge sharing within the robotics community.',
     ],
-    duration: 'May 2023 -  Present',
+    duration: 'May 2023 -  OnGoing',
     icon: PlusIcon,
     iconBackground: 'bg-darkBlue',
     techStackIcons: [{ iconType: IconType.cpp }, { iconType: IconType.Python }],
